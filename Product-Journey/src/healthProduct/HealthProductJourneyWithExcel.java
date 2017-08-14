@@ -55,7 +55,7 @@ public class HealthProductJourneyWithExcel extends ExtentBaseClass {
 	public void FillLoginDetails() throws Exception {
 
 		try {
-			test = extent.createTest("Click on Health Link on top bar", "Health product page should be open with proposal form");
+			test = extent.createTest("Click on Health Link on top bar", "Health Product page should be open with proposal form");
 			WebElement health = driver.findElement(uimap.getLocator("health_product"));
 			health.click();
 			Thread.sleep(1000);
