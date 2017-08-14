@@ -34,7 +34,7 @@ public class HealthProductJourneyWithExcel extends ExtentBaseClass {
 	public void LaunchWebsite() throws Exception {
 
 		try {
-			test = extent.createTest("Open URL, Navigate to URL", "Easypolicy Website should be open");
+			test = extent.createTest("Open URL, Navigate to url", "Easypolicy Website should be open");
 			driver.get("http://easypolicy.com/");
 			driver.manage().window().maximize();
 			//String title = driver.getTitle();
