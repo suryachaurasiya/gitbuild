@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/BhartiAxaAutomate/Product-Journey/lib/lib pdf/dsn.jar"/>
+	<classpathentry kind="lib" path="D:/BhartiAxaAutomate/Product-Journey/lib/lib pdf/gimap.jar"/>
+	<classpathentry kind="lib" path="D:/BhartiAxaAutomate/Product-Journey/lib/lib pdf/imap.jar"/>
+	<classpathentry kind="lib" path="D:/BhartiAxaAutomate/Product-Journey/lib/lib pdf/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/BhartiAxaAutomate/Product-Journey/lib/lib pdf/mail.jar"/>
+	<classpathentry kind="lib" path="D:/BhartiAxaAutomate/Product-Journey/lib/lib pdf/mailapi.jar"/>
+	<classpathentry kind="lib" path="D:/BhartiAxaAutomate/Product-Journey/lib/lib pdf/pop3.jar"/>
+	<classpathentry kind="lib" path="D:/BhartiAxaAutomate/Product-Journey/lib/lib pdf/smtp.jar"/>
+	<classpathentry kind="lib" path="lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="lib/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j.jar"/>
+	<classpathentry kind="lib" path="lib/extentreports-3.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/extentreports-3.0.6.jar"/>
+	<classpathentry kind="lib" path="lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/activation-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/jxl.jar"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="lib/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="lib/poi-examples-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="lib/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="lib/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
