@@ -71,7 +71,7 @@
 	<version>3.0.6</version>
 </dependency>
 <dependency>
-        <groupId>javax.mail</groupId>
+        <groupId>javax.maiL</groupId>
         <artifactId>mail</artifactId>
         <version>1.4.5</version>
     </dependency>
