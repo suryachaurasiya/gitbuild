@@ -51,7 +51,7 @@ public class HealthProductJourneyWithExcel extends ExtentBaseClass {
 	}
 
 	// Click on Health Product link
-	@Test(description = "Click on Health product link ", priority = 2)
+	@Test(description = "Click on Health prod link ", priority = 2)
 	public void FillLoginDetails() throws Exception {
 
 		try {
