@@ -4,6 +4,13 @@
   <test name="Test">
     <classes>
       <class name="healthProduct.HealthProductJourneyWithExcel"/>
+      <class name="carProduct.CarProductJourney"/>
+      <class name="bikeProduct.TwowheelerProductJourney"/>
+      <class name="childProduct.ChildProductJourney"/>
+      <class name="investmentProduct.InvestmentProductJourney"/>
+      <class name="pensionProduct.PensionProductJourney"/>
+      <class name="termProduct.TermProductJourney"/>
+      <class name="travelProduct.TravelProductJourney"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
